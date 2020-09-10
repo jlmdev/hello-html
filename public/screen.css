@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Ubuntu&display=swap');
 :root {
   font: 16px / 1 sans-serif;
 }
@@ -32,10 +33,12 @@ header nav li {
 h1 {
   text-align: center;
   margin: 1rem;
+  font-family: 'Righteous', cursive;
 }
 
 h2 {
   text-align: center;
+  font-family: 'Ubuntu', cursive;
 }
 
 nav ul {
@@ -61,6 +64,7 @@ article {
   margin: 1rem auto;
   /* display: flexbox; */
   background-color: #e7e7e7;
+  font-family: 'Righteous', cursive;
 }
 
 img {
